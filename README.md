@@ -18,5 +18,5 @@ https://github.com/CSSEGISandData/COVID-19
 
 
  ![image](https://user-images.githubusercontent.com/73078692/135878316-7f95e7d6-c88f-4942-a8b9-6613e80bfada.png)
-![image](https://user-images.githubusercontent.com/73078692/136005832-1a99c075-9e02-4cd5-ad8f-fbeff61bb111.png)
+![image](https://user-images.githubusercontent.com/73078692/136005986-c65b5148-1c95-49fe-8ebb-9c6fab572f81.png)
 
