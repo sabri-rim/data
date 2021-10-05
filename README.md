@@ -1,15 +1,14 @@
 # data
-Ce dossier contient des tableaux récapitulatifs des séries chronologiques quotidiennes lors du COVID , y compris les cas confirmés, les décès et les guérisons. 
- ses données à partir du 13 février 2020 
- se sont des données spécifiques au pays nous donnant le dernier nombre de cas différents (actifs, confirmés, décès, guéris, etc.) pour différents pays/ régions du monde.
-
-
-
+Cette base de donnée represente les séries chronologiques quotidiennes lors du COVID , y compris les cas confirmés, les décès et les guérisons à partir du 13 février 2020 jusqu'au 04/10/2021.
+ce jeux de données permet le suivis quotidien au pays nous donnant le dernier nombre de cas différents (actifs, confirmés, décès, guéris, etc.) pour différents pays/ régions du monde.
+y'a eu la creation de plusieurs tableau de bord
+https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
+https://public.tableau.com/profile/harshit.tyagi#!/vizhome/covid_book/Dashboard 
 
 source : https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases
-référentiel de données COVID-19 du Center for Systems Science and Engineering (CSSE) de l'Université Johns Hopkins
+Il s'agit du référentiel de données du tableau de bord visuel du nouveau coronavirus 2019 exploité par le Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE). Également, soutenu par l'équipe ESRI Living Atlas et le laboratoire de physique appliquée de l'Université Johns Hopkins (JHU APL).
 https://github.com/CSSEGISandData/COVID-19
- 
+
  
  exemple d'utilisation : 
 # Visualiser les 10 pays les plus touchés par le COVID
@@ -17,6 +16,13 @@ https://github.com/CSSEGISandData/COVID-19
 
 
 
- ![image](https://user-images.githubusercontent.com/73078692/135878316-7f95e7d6-c88f-4942-a8b9-6613e80bfada.png)
+
+
+![image](https://user-images.githubusercontent.com/73078692/135878316-7f95e7d6-c88f-4942-a8b9-6613e80bfada.png)
+
+
+
+
+
 ![image](https://user-images.githubusercontent.com/73078692/136005986-c65b5148-1c95-49fe-8ebb-9c6fab572f81.png)
 
