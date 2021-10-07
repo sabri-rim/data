@@ -1,4 +1,4 @@
-# data
+# Data
 Cette base de donnée represente les séries chronologiques quotidiennes lors du COVID , y compris les cas confirmés, les décès et les guérisons à partir du 13 février 2020 jusqu'au 04/10/2021.
 ce jeux de données permet le suivis quotidien au pays nous donnant le dernier nombre de cas différents (actifs, confirmés, décès, guéris, etc.) pour différents pays/ régions du monde.
 
@@ -62,7 +62,7 @@ https://public.tableau.com/profile/harshit.tyagi#!/vizhome/covid_book/Dashboard
 ![image](https://user-images.githubusercontent.com/73078692/136005986-c65b5148-1c95-49fe-8ebb-9c6fab572f81.png)
 
 
-# source : 
+# Source : 
 https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases
 
 
