@@ -1,11 +1,33 @@
 # data
 Cette base de donnée represente les séries chronologiques quotidiennes lors du COVID , y compris les cas confirmés, les décès et les guérisons à partir du 13 février 2020 jusqu'au 04/10/2021.
 ce jeux de données permet le suivis quotidien au pays nous donnant le dernier nombre de cas différents (actifs, confirmés, décès, guéris, etc.) pour différents pays/ régions du monde.
+
+# Variables 
+Country_Region:
+Last_Update:
+Lat
+Long_
+Confirmed:
+Deaths:
+Recovered:
+Active:
+Incident_Rate
+People_Tested:
+People_Hospitalized:
+Mortality_Rate:
+UID:
+ISO3:
+Cases_28_Days:
+Deaths_28_Days:
+
 y'a eu la creation de plusieurs tableau de bord
 https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
 https://public.tableau.com/profile/harshit.tyagi#!/vizhome/covid_book/Dashboard 
 
-source : https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases
+# source : 
+https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases
+
+
 Il s'agit du référentiel de données du tableau de bord visuel du nouveau coronavirus 2019 exploité par le Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE). Également, soutenu par l'équipe ESRI Living Atlas et le laboratoire de physique appliquée de l'Université Johns Hopkins (JHU APL).
 https://github.com/CSSEGISandData/COVID-19
 
