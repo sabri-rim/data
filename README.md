@@ -35,13 +35,13 @@ Cases_28_Days:
 
 Deaths_28_Days:
 
+
+# exemple d'utilisation : 
 # Tableau de bord creer par cette base de donnée 
 https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
 https://public.tableau.com/profile/harshit.tyagi#!/vizhome/covid_book/Dashboard 
 
 
- 
-# exemple d'utilisation : 
 # Visualiser les 10 pays les plus touchés par le COVID
 ![image](https://user-images.githubusercontent.com/73078692/136005360-9ba0b672-5461-4a39-b214-274d53044698.png)
 
