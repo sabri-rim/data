@@ -4,23 +4,40 @@ ce jeux de données permet le suivis quotidien au pays nous donnant le dernier n
 
 # Variables 
 Province_State - Le nom de l'État aux États-Unis.
+
 Country_Region - Le nom du pays (États-Unis).
+
 Last_Update - La date la plus récente à laquelle le fichier a été envoyé.
+
 Lat - Latitude.
+
 Long_ - Longitude.
+
 Confirmé - Nombre de cas agrégé pour l'état.
+
 Décès - Nombre total de morts pour l'État.
+
 Récupéré - Nombre de cas récupérés agrégé pour l'état.
+
 Actifs - Cas confirmés agrégés qui n'ont pas été résolus (cas actifs = total des cas - total récupéré - total des décès).
+
 FIPS - Code Federal Information Processing Standards qui identifie de manière unique les comtés aux États-Unis.
+
 Incident_Rate - cas pour 100 000 personnes.
+
 Total_Test_Results - Nombre total de personnes qui ont été testées.
-People_Hospitalized - Nombre total de personnes hospitalisées. (Annulé le 31 août, voir le numéro 3083 )
+
+People_Hospitalized - Nombre total de personnes hospitalisées. 
+
 Case_Fatality_Ratio - Nombre de décès enregistrés * 100/ Nombre de cas confirmés.
+
 UID - Identificateur unique pour chaque entrée de ligne.
+
 ISO3 - Identificateurs de codes de pays officiellement attribués.
+
 Testing_Rate - Total des résultats des tests pour 100 000 personnes. Les « résultats totaux des tests » sont égaux aux « Résultats totaux des tests (positifs + négatifs) » de COVID Tracking Project .
-Hospitalization_Rate - Taux d'hospitalisation aux États-Unis (%) : = Nombre total d'hospitalisations / Nombre de cas. Le "Nombre total d'hospitalisations" est le nombre "Hospitalisé - Cumulatif" du COVID Tracking Project . Le « taux d'hospitalisation » et le « Nombre total d'hospitalisations » ne sont présentés que pour les États qui fournissent des données hospitalières cumulatives. (Annulé le 31 août, voir le numéro 3083 )
+
+Hospitalization_Rate - Taux d'hospitalisation aux États-Unis (%) : = Nombre total d'hospitalisations / Nombre de cas. Le "Nombre total d'hospitalisations" est le nombre "Hospitalisé - Cumulatif" du COVID Tracking Project . Le « taux d'hospitalisation » et le « Nombre total d'hospitalisations » ne sont présentés que pour les États qui fournissent des données hospitalières cumulatives. 
 
 
 # exemple d'utilisation : 
