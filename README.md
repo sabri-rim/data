@@ -40,7 +40,7 @@ Testing_Rate - Total des résultats des tests pour 100 000 personnes. Les « ré
 Hospitalization_Rate - Taux d'hospitalisation aux États-Unis (%) : = Nombre total d'hospitalisations / Nombre de cas. Le "Nombre total d'hospitalisations" est le nombre "Hospitalisé - Cumulatif" du COVID Tracking Project . Le « taux d'hospitalisation » et le « Nombre total d'hospitalisations » ne sont présentés que pour les États qui fournissent des données hospitalières cumulatives. 
 
 
-# exemple d'utilisation : 
+# Exemple d'utilisation : 
 # Tableau de bord creer par cette base de donnée 
 https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
 https://public.tableau.com/profile/harshit.tyagi#!/vizhome/covid_book/Dashboard 
